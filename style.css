@@ -14,7 +14,7 @@ body {
 .container {
   max-width: 928px;
   margin: 0 auto;
-  padding: 0 5vw;
+  padding: 0 16px;
 }
 
 .page-header {
@@ -172,12 +172,11 @@ body {
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;
-  color: #ffffff;
 }
 
 .page-footer a {
   margin-left: 56px;
-  color: inherit;
+  color: #ffffff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
